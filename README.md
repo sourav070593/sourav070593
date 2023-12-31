@@ -7,7 +7,8 @@ Hello there! I'm Sourav Tiwari, a passionate Software-Engineer with a love for A
 
 Let's connect and collaborate! You can find me on various platforms:
 
-💼 [LinkedIn](www.linkedin.com/in/sourav-tiwari-bb7593178)
+💼 [LinkedIn](https://www.linkedin.com/in/sourav-tiwari-bb7593178)
+
 
 💼 Any freelance work? 📫 Reach me via  [Email](mailto:sourav070593@gmail.com)
 
