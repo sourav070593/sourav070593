@@ -7,7 +7,7 @@ Hey there 👋
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=sourav070593)
 
-Hi, I'm <b>Sourav Tiwari</b>, a passionate Software Engineer and a freelance Full stack Developer from india.I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm <b>Sourav Tiwari</b>, a passionate Software Engineer and a freelance Full stack Developer from India.I take great care in the experience, architecture, and code quality of the things I build.
 My passions are Artifical intelligence and music.
 
 I am also an open-source enthusiast and maintainer.I have learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through Open-source.
